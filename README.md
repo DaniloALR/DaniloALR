@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloALR&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-- 🔭 I’m currently working on Javascript, Typescript, React, Redux, SCSS, Python
+- 🔭 I’m currently working on Javascript, Typescript, React, Redux, SCSS, Python, node.js
 - 🌱 I’m currently learning Tailwind, next.js
 
 <!--
