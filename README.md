@@ -7,7 +7,7 @@
 </div>
     
 - 🔭 I’m currently working on Javascript, Typescript, React, Redux, SCSS, Bootstrap, Python, node.js
-- 🌱 I’m currently learning Tailwind, next.js, Docker
+- 🌱 I’m currently learning Tailwind, next.js, Docker, CircleCl
 
 <!--
 **DaniloALR/DaniloALR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
