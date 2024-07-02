@@ -6,8 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloALR&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-- 🔭 I’m currently working on Javascript, Typescript, React, Redux, SCSS, Python, node.js
-- 🌱 I’m currently learning Tailwind, next.js
+- 🔭 I’m currently working on Javascript, Typescript, React, Redux, SCSS, Bootstrap, Python, node.js
+- 🌱 I’m currently learning Tailwind, next.js, Docker
 
 <!--
 **DaniloALR/DaniloALR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
